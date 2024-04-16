@@ -1,4 +1,4 @@
-# Amazon-Frontend-Clone
+
 # Amazon Frontend Clone
 
 This project is a clone of the Amazon frontend built using HTML and CSS. It replicates the design and layout of the Amazon website, and it is fully responsive, meaning it adapts well to various screen sizes, from desktop to mobile devices.
